@@ -24,7 +24,8 @@
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://https://github.com/jithendra0820/AtliQ_Hardware-_Excel_Report-/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/jithendra0820/AtliQ_Hardware-_Excel_Report-/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https:https://github.com/jithendra0820/AtliQ_Hardware-_Excel_Report-/blob/main/P%26L%20Statement%20by%20Months.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/jithendra0820/AtliQ_Hardware-_Excel_Report-/blob/main/P%26L%20Statement%20by%20Months.pdf)_
+  **3.**  Quaters in sub _ zones reports by _[jithendra]_(https://github.com/jithendra0820/AtliQ_Hardware-_Excel_Report-/blob/main/Finance%20Jithu%20report.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
